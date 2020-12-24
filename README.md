@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Angela Dimon**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -22,9 +22,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Settings page where the user can change the tip percentages and set to dark or light mode.
+- [x] Settings view where the user can change the tip percentages and set to dark or light mode.
 - [x] Reset button where user can reset tip percentages to the default of 15%, 18%, and 20%, and reset bill field.
 - [x] Added a tip splitting feature to divide tip and total.
+- [x] Styled the UI a little bit.
 
 ## Video Walkthrough
 
@@ -36,7 +37,9 @@ GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using Xcode and Swift so it was a little bit challenging to learn from scratch. I had fun adding a settings view and learning about defaults.
+Styling the UI was challenging for me since I couldn't get dark mode to work with any colored background (so I chose gray instead). I'm looking forward to learning
+iOS!
 
 ## License
 
