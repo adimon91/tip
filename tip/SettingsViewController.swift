@@ -29,7 +29,6 @@ class SettingsViewController: UIViewController {
         
         // set dark mode
         let darkOn = defaults.bool(forKey: "darkOn")
-        print("darkOn", darkOn)
         darkToggle.isOn = darkOn
         if darkOn {
             overrideUserInterfaceStyle = .dark
